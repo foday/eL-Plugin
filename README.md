@@ -1,2 +1,2 @@
-# eLeverage-Plugin
-Group buying plugin for wordpress
+# eL-Plugin
+plugin for wordpress
